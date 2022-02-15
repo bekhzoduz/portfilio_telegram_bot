@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @date 03.02.22 21:31
+ * @date 14.02.22 21:31
  * @author Bekhzodjon
  * @contact https://t.me/Bekhzodjon
  * @rules ruxsatsiz koddan muallif nomini o'zgartirish yaxshi oqibatga olib kelmaydi!
